@@ -15,6 +15,6 @@ git submodule update --remote
 - 🦄 Bonus additions not asked by the program
 
 ## Entries
-- ✅ [`ts-prereq`](/ts-prereq): Typescript pre-requisites using web3js v1.x as specified in the subject document.
-- 🦄 [`ts-prereq-web3js-v2`](/ts-prereq-web3js-v2): Typescript pre-requisites using the new web3.js v2.
-- ✅ [`rust-prereq`](/rust-prereq): Rust pre-requisites.
+- ✅ [`ts-prereq`](/ts-prereq/tree/main): Typescript pre-requisites using web3js v1.x as specified in the subject document.
+- 🦄 [`ts-prereq-web3js-v2`](/ts-prereq-web3js-v2/tree/main): Typescript pre-requisites using the new web3.js v2.
+- ✅ [`rust-prereq`](/rust-prereq/tree/main): Rust pre-requisites.
