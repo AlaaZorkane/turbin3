@@ -11,7 +11,7 @@ git submodule update --remote
 ```
 
 - ✅ Completed submissions
-- 🚧 Work in progress submission
+- 🚧 Work in progress
 - 🦄 Bonus additions not part of the program
 
 ## Entries
